@@ -2,7 +2,7 @@
 
 Simple MVVM and REST api base android app to view Github user profile and public repositorys.
 
-<a id="raw-url" href="apk/app-release.apk"><img src="https://raw.githubusercontent.com/nasim0x1/nasim0x1/main/image/download.svg"  width="180" height=auto>
+<a id="raw-url" href="apk/app-release.apk?raw=true"><img src="https://raw.githubusercontent.com/nasim0x1/nasim0x1/main/image/download.svg"  width="180" height=auto>
 </a>
 
 ## Specs / Open-source libraries:
