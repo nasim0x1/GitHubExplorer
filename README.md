@@ -1,6 +1,9 @@
 ## General
 
-Simple MVVM and REST api base android app to view Github user pofile and Public Repository.
+Simple MVVM and REST api base android app to view Github user profile and public repositorys.
+
+<a id="raw-url" href="apk/app-release.apk"><img src="https://raw.githubusercontent.com/nasim0x1/nasim0x1/main/image/download.svg"  width="180" height=auto>
+</a>
 
 ## Specs / Open-source libraries:
 
@@ -17,8 +20,12 @@ Simple MVVM and REST api base android app to view Github user pofile and Public 
 - [**CircleImageView**](https://github.com/hdodenhof/CircleImageView) for circular ImageView
 - [**Toasty**](https://fonts.google.com/specimen/Ubuntu) for animations
 - **Android Support Libraries**, the almighty ;-)
+
+## Others:
+
 - [**GitHub Logo**](https://github.com/logos)
 - [**Ubuntu Font**](https://github.com/logos)
+- [**GitHub API**](https://docs.github.com/en/rest/reference/users)
 
 ## Screenshots
 
