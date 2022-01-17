@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Explorer</string>
+    <string name="splash_screen_text">Explorer&#160;&#160;&#160;&#160;</string>
+    <string name="github_username">Github Username</string>
+    <string name="view_repository">View Public Repository</string>
+    <string name="location">Location:</string>
+</resources>
