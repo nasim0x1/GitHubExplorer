@@ -29,9 +29,9 @@ Simple MVVM and REST api base android app to view Github user profile and public
 
 ## Screenshots
 
-|        Profile Details         |              Invalid Username              |               No connection                |
-| :----------------------------: | :----------------------------------------: | :----------------------------------------: |
-| ![First](screenshots/full.gif) | ![Sec](screenshots/username_not_found.gif) | ![Third](screenshots/connection_error.gif) |
+|                     Profile Details                     |                           Invalid Username                            |                            No connection                            |
+| :-----------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="screenshots/full.gif" width=auto height=auto> | <img src="screenshots/username_not_found.gif" width=auto height=auto> | <img src="screenshots/connection_error.gif" width=auto height=auto> |
 
 ## Note: Android Kotlin Gradle Update
 
